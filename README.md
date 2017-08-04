@@ -1,6 +1,6 @@
 # HENS
 ##### Miten Mistry and Ruth Misener.
-
+---
 ### Project Description
 This project implements an algorithm that lower bounds a given mixed-integer nonlinear programming (MINLP) Synheat instance. 
 The algorithm models the MINLP formulation as a mixed-integer linear programming relaxation and iteratively tightens by adding cutting planes for convex functions and breakpoints for piecewise approximations.
